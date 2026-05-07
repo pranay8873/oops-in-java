@@ -1,4 +1,4 @@
-package com.java2.objectorientedprog.inheritance;
+package com.java2.objectorientedprog.abstraction;
 
 public class CreditCardPayment extends Payment {
     public CreditCardPayment(String id, String customerName, String paymentDate, String mode){

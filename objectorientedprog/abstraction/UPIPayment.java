@@ -1,4 +1,4 @@
-package com.java2.objectorientedprog.inheritance;
+package com.java2.objectorientedprog.abstraction;
 
 public class UPIPayment extends Payment{
     public UPIPayment(String id, String customerName, String paymentDate, String mode){

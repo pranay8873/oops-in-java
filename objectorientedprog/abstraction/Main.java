@@ -1,4 +1,4 @@
-package com.java2.objectorientedprog.inheritance;
+package com.java2.objectorientedprog.abstraction;
 
 import java.util.Scanner;
 
