@@ -29,14 +29,20 @@ public class sets {
                 System.out.println("hi is not present");
             }
         }
-        Set<String> names = new HashSet<>();
-
-        names.add("Pranay");
-        names.add("Akash");
-        names.add("Santosh");
-        names.add("Pranay");
+//        Set<String> names = new HashSet<>();
+//
+//        names.add("Pranay");
+//        names.add("Akash");
+//        names.add("Santosh");
+//        names.add("Pranay");
 //        names.add(20);error
 
+//        System.out.println(names);
+        Set<String> names=new HashSet<>();
+        names.add("pranay");
+        names.add("cherry");
+        names.add("vaishnavi");
+        names.add("deepika");
         System.out.println(names);
     }
 
